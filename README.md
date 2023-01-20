@@ -1,4 +1,4 @@
 # mechanicalHoneycombMaze
-code for mechanical version of honeycom maze
+code for mechanical version of honeycomb maze
 
 A number of files 
